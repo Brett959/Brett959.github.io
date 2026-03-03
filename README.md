@@ -1,5 +1,4 @@
 # Brett Renaud
-# Brett Renaud
 **Physics | Astrophysics | Galaxy Evolution**
 
 ![Profile Photo](images/profile.jpg)
