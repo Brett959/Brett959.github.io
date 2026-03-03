@@ -30,7 +30,7 @@ My research focuses on galaxy interactions and mergers, with particular interest
 ---
 
 ## 🖼️ Conference Poster
-![AGN Poster](images/Brett_R_NSBP_Conference_San_Jose_Poster_2.pdf?v=1)
+![AGN Poster](docs/Brett_R_NSBP_Conference_San_Jose_Poster_2.pdf)
 
 **Poster:** *Roles of Active Galactic Nuclei in Galaxy Mergers and Interactions*  
 NSBP–NSHP Joint Annual Conference (2025), San Jose, CA  
