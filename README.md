@@ -7,7 +7,7 @@ I am a Physics major in the BS/MS Astrophysical Science and Technology program a
 My research focuses on galaxy interactions and mergers, with particular interest in the role of Active Galactic Nuclei (AGN).
 
 📍 Rochester, NY  
-📧 brett.renaud@icloud.com  
+📧 btr6239@g.rit.edu  
 🔗 [LinkedIn](https://www.linkedin.com/in/brett-renaud-8b624133a/)  
 💻 [GitHub](https://github.com/BrettRenaud)
 
