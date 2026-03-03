@@ -1,7 +1,7 @@
 # Brett Renaud
 **Physics | Astrophysics | Galaxy Evolution**
 
-![Profile Photo](images/profile.jpg)
+![Profile Photo](images/IMG_2876.jpeg)
 
 I am a Physics major in the BS/MS Astrophysical Science and Technology program at Rochester Institute of Technology.  
 My research focuses on galaxy interactions and mergers, with particular interest in the role of Active Galactic Nuclei (AGN).
