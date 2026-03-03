@@ -8,7 +8,7 @@ My research focuses on galaxy interactions and mergers, with particular interest
 
 📍 Rochester, NY  
 📧 brett.renaud@icloud.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/brett-renaud](https://www.linkedin.com/in/brett-renaud-8b624133a/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/brett-renaud-8b624133a/)  
 💻 [GitHub](https://github.com/BrettRenaud)
 
 ---
